@@ -1,5 +1,9 @@
-nav_items: 
-  - {label: 'Accueil', path: '/'}
-  - {label: 'Products', path: '/Products/'}
-  - {label: 'News', path: '/News'}
- 
+nav_items:
+  - label: Accueil
+    path: /
+  - label: A propos
+    path: /A propos/
+  - label: Blog
+    path: /Blog/
+  - label: Galerie
+    path: /Galerie/
